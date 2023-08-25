@@ -1,0 +1,14 @@
+Indicar, bajo sus propias palabras, la naturaleza de dicho documento.
+El documento proporcionado es una "Política de Control de Accesos a Servicios Tecnológicos" que establece las normas, directrices y procedimientos para el acceso y uso de los servicios informáticos en el Consejo Nacional para la Igualdad de Género. Su objetivo principal es garantizar la seguridad, confidencialidad, integridad y disponibilidad de la información y los recursos tecnológicos de la institución.
+
+ENSAYO
+
+En este ensayo, se realizará una comparación entre las políticas de acceso a servicios tecnológicos mencionadas en el documento y las políticas de acceso a la información en Colombia.
+
+Las políticas de acceso a servicios tecnológicos se centran en regular el uso adecuado de los recursos tecnológicos dentro del Consejo Nacional para la Igualdad de Género. Estas políticas establecen los niveles de autorización para acceder a servicios como Internet, correo institucional, aplicativos gubernamentales, aplicativos de terceros y telefonía IP. Además, se hacen referencia a acuerdos ministeriales y al Esquema Gubernamental de Seguridad de la Información (EGSI) como marcos de referencia en seguridad informática.
+
+Por otro lado, las políticas de acceso a la información en Colombia se rigen por la Ley de Transparencia y el derecho fundamental de acceso a la información pública consagrado en la Constitución. Estas políticas tienen como objetivo asegurar el acceso de todas las personas a la información en poder del Estado, promoviendo la transparencia y la rendición de cuentas.
+
+Aunque ambas políticas comparten principios de seguridad como la confidencialidad, integridad y disponibilidad de la información, existen diferencias notables. Las políticas de acceso a servicios tecnológicos se enfocan en la regulación del uso de recursos informáticos y la gestión de la seguridad de la información en una institución específica, mientras que las políticas de acceso a la información en Colombia tienen un alcance más amplio, abarcando todas las entidades estatales y promoviendo el acceso ciudadano a la información pública.
+
+En resumen, aunque las políticas de acceso a servicios tecnológicos y a la información en Colombia comparten algunos principios de seguridad, difieren en cuanto al alcance y los requisitos de acceso. Las primeras se centran en la protección de recursos tecnológicos y la seguridad de la información en una institución específica, mientras que las segundas buscan promover la transparencia, la rendición de cuentas y el acceso ciudadano a la información pública en general. Ambas políticas son fundamentales en la gestión eficiente de los recursos informáticos y la información, pero se aplican en contextos y con objetivos distintos.

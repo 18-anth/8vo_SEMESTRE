@@ -1,0 +1,9 @@
+El Reglamento General de Protección de Datos (RGPD) es una normativa europea implementada en mayo de 2018 con el propósito de salvaguardar los datos personales de los ciudadanos europeos. Su objetivo principal es establecer requisitos y obligaciones para las empresas que manejan información personal, con el fin de asegurar la privacidad y seguridad de estos datos. El uso de filtros de privacidad es mencionado en el documento como una medida que puede ayudar a las empresas a cumplir con los estándares del RGPD, ya que evita que personas no autorizadas accedan a información confidencial.
+
+Es cierto que el RGPD requiere la implementación de medidas técnicas y organizativas adecuadas para proteger la privacidad y seguridad de los datos personales. El documento también resalta la importancia de proteger especialmente los datos financieros, debido a que este sector es altamente vulnerable a brechas de seguridad, principalmente causadas por accesos no autorizados, según un informe citado en el documento.
+
+Además, es esencial que las empresas tomen medidas concretas para proteger los datos personales y financieros. El RGPD brinda un marco legal claro para este propósito. Sin embargo, es crucial entender que el cumplimiento del RGPD no debe verse como una tarea aislada, sino como un proceso continuo y dinámico.
+
+Además, es importante resaltar la responsabilidad individual en cuanto a la protección de los datos personales y financieros. Si bien los filtros de privacidad pueden ser útiles para proteger la información en pantalla, también se deben tener precauciones al compartir datos en línea y utilizar contraseñas seguras.
+
+En conclusión, el RGPD desempeña un papel fundamental en la protección de la privacidad y seguridad de los datos personales y financieros. Las empresas deben tomar medidas adecuadas para cumplir con esta normativa, mientras que los individuos deben ser conscientes de su propia responsabilidad en la protección de sus datos.

@@ -1,0 +1,6 @@
+PREGUNTA:
+Responder a la siguiente pregunta: ¿ En su opinión en el Ecuador existe software malicioso ? En caso de respuesta afirmativa o negativa exponer su punto de vista. 
+
+
+RESPUESTA:
+Si, claramente en Ecuador existen softwares maliciosos debido al crecimiento de la demanda de internet y el poco conocimiento de los usuarios ha ocasionado que este tipo de software ataquen a usuarios y organizaciones, además según medios de comunicación Ecuador esta entre los países con más ciberataques.
